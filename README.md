@@ -12,7 +12,7 @@
     * select Install and choose yt-dlp
 * [ani-cli](https://github.com/pystardust/ani-cli#android)
   * [mpv-android script](https://www.reddit.com/r/termux/comments/schy01/anicli_on_termux/humuou4/)
-  * # Make sure to add the referrer in mpv by opening mpv (playstore version), going into Settings -> Advanced -> Edit mpv.conf and adding:
+  * Make sure to add the referrer in mpv by opening mpv (playstore version), going into Settings -> Advanced -> Edit mpv.conf and adding:
     > referrer="https://gogoanime.fi/"
 
 ### Fresh Install Info
