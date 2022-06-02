@@ -19,6 +19,7 @@
 
 ### Commands
 * `$ termux-setup-storage`
+* `$ termux-reload-settings`
 
 ### Fresh Install Info
     sudo apt install git stow
